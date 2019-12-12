@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">EXDagger2</string>
+
+    <!-- Login 화면 -->
+    <string name="id_hint">아이디를 입력해 주세요.</string>
+    <string name="pwd_hint">패스워드를 입력해 주세요.</string>
+    <string name="btntxt_login">Login</string>
+    <string name="logininfo_null">아이디 또는 패스워드가 입력되지 않았습니다.</string>
+    <string name="loginfailed">아이디 또는 패스워드가 입력되지 않았습니다.</string>
+    <string name="RetrofitAddress">http://183.111.166.138:8078/</string>
+
+</resources>
