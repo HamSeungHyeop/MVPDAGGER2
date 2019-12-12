@@ -13,7 +13,7 @@ import kotlinx.android.synthetic.main.activity_main.*
 import javax.inject.Inject
 
 
-// BaseActivity 상속
+// BaseActivity Login View 상속
 class MainActivity : BaseActivity(), LoginView {
 
     @Inject
